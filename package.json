@@ -1,0 +1,15 @@
+{
+  "name": "expressjs",
+  "version": "0.0.1",
+  "description": "learn expressjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikash chander",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
